@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638625058 source:c:\users\ansh\documents\c++ coding practice\car\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+
