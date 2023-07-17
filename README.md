@@ -12,3 +12,5 @@ whare functionality like
   view cart 
   checkout 
 are implemented using linked list, unordered map together with concept of obeject oriented programming
+
+More fetures like payment method, Recomendations. would be added to this project in future.
