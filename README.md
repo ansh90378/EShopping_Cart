@@ -1,5 +1,4 @@
 # EShopping_Cart
-Online shopping cart. Simple operations running behind cart.
 Now a days e commeres website or many other site, list coustmer perferance.
 Or consumer wants to mark product they are intrested using cart.
 This roject deals with the backend of a cart
