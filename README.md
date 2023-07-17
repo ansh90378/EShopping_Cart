@@ -1,6 +1,7 @@
 # EShopping_Cart
-Backend of Shopping cart \n
-It is a commend line based cart \n
+Backend of Shopping cart 
+It is a commend line based cart 
+
 Now a days e commeres website or many other site, list coustmer perferance.
 Or consumer wants to mark product they are intrested using cart.
 This roject deals with the backend of a cart
